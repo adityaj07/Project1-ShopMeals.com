@@ -5,4 +5,4 @@ A static food ordering website created using Html and CSS which is responsive as
 
 Have a look at it here 👇 :
 
-https://aditya-joshi07.github.io/Project1-ShopMeals.com/
+https://adityaj07.github.io/Project1-ShopMeals.com/
